@@ -1,3 +1,3 @@
 # useful-tech
 
-This is where I'll keep useful functions that I might need in the future
+This is where I keep useful functions that I might need in the future
